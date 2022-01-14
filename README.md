@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Trần Gia Luong, and i come from Academy of Cryptography Technique 😄
 <!--
 **TGLuong/TGLuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
