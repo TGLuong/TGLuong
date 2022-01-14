@@ -1,5 +1,5 @@
 # Hi there 👋
-### My name is Trần Gia Lương, and i come from Academy of Cryptography Technique 😄
+### My name is Trần Gia Lương, and I come from Academy of Cryptography Technique 😄
 ### Welcome to my profile, and if you feel interest, follow me!!! :heart_eyes:
 😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
 <!--
