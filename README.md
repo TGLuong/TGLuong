@@ -1,5 +1,6 @@
-### Hi there 👋
-My name is Trần Gia Luong, and i come from Academy of Cryptography Technique 😄
+# Hi there 👋
+### My name is Trần Gia Lương, and i come from Academy of Cryptography Technique 😄
+### Welcome to my profile, and if you feel interest, follow me :heart_eyes: 😍
 <!--
 **TGLuong/TGLuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
