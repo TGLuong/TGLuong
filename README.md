@@ -1,6 +1,6 @@
 # Hi there 👋
 ### My name is Trần Gia Lương, and I have been an student of VietNam Academy of Cryptography Technique 😄
-### Welcome to my profile, and if you feel interest, follow me!!! :heart_eyes:
+### Welcome to my profile, and if you feel interested, follow me!!! :heart_eyes:
 😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
 <!--
 **TGLuong/TGLuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
