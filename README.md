@@ -1,5 +1,5 @@
 # Hi there 👋
-### I'm Trần Gia Lương 😄
+### I'm Gia Lương 😄
 <!--
 **TGLuong/TGLuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
